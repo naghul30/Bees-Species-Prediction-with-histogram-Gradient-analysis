@@ -1,4 +1,4 @@
-# Bees-Species-Prediction-with-histogram-Gradient-analysis
+# Bees-Species-Prediction-with-Histogram analysis
 ## Naive Bees - Predict Species from Images
 
 Can a machine distinguish between a honey bee and a bumble bee? Being able to identify bee species from images, while challenging, would allow researchers to more quickly and effectively collect field data. In this Project, we will use the Python image library Pillow to load and manipulate image data and then try few models to predict the species. We'll do common transformations of images and build them into a pipeline.
